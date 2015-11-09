@@ -16,4 +16,4 @@
 # Repository configuration
 ---
 #default_repository_root: https://download.run.pivotal.io
-default_repository_root: http://vm-a748-e152.nam.nsroot.net/
+default_repository_root: http://vm-a748-e152.nam.nsroot.net/javadependencies
